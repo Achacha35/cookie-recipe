@@ -9,6 +9,6 @@ The main aim of this webpage is to teach you how to bake the yummiest cookies!
 1. *Anita*
       * Cell: 07875422479
       * Email: anita@cookierecipe.org
-2. ~~ Gitu ~~
+2. *Gitu*
       -cell: 07893489223
-      +Email: gitu@cookierecipe.world
+      -Email: gitu@cookierecipe.world
